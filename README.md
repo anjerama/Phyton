@@ -1,2 +1,0 @@
-# Phyton
-Scrips de Phyton
